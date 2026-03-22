@@ -1,0 +1,7 @@
+C:\Users\leced\Downloads\kalandtesco\kalandtesco\bin\Debug\kalandtesco.exe.config
+C:\Users\leced\Downloads\kalandtesco\kalandtesco\bin\Debug\kalandtesco.exe
+C:\Users\leced\Downloads\kalandtesco\kalandtesco\bin\Debug\kalandtesco.pdb
+C:\Users\leced\Downloads\kalandtesco\kalandtesco\obj\Debug\kalandtesco.csproj.AssemblyReference.cache
+C:\Users\leced\Downloads\kalandtesco\kalandtesco\obj\Debug\kalandtesco.csproj.CoreCompileInputs.cache
+C:\Users\leced\Downloads\kalandtesco\kalandtesco\obj\Debug\kalandtesco.exe
+C:\Users\leced\Downloads\kalandtesco\kalandtesco\obj\Debug\kalandtesco.pdb
