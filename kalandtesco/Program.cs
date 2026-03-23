@@ -49,7 +49,7 @@ namespace TeszkoKaland
                 {
                     Console.WriteLine("Sikerült kirepülni a busz hátsó ablakán! De közben elhagytál 500 forintot a zsebedből.");
                     penz -= 500;
-                    energia -= 10;
+                    energia -= 20;
                 }
                 else
                 {
